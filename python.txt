@@ -1,1 +1,2 @@
-Pyhthon é uma linguagem de programação versátil.
+Python é uma linguagem de programação versátil.
+Python é amplamente utilizao em ciencia de dados, machine learning, IA
